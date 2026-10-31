@@ -17,3 +17,6 @@ Una introducción a Seaborn
 ## curso Laboratorio de Programación Científica para Ciencia de Datos
 
 [link ](https://github.com/MDS7202/MDS7202.git)
+
+## ciencia_de_datos_fceuba_2c25
+[link ](https://github.com/nsidicarocep/ciencia_de_datos_fceuba_2c25.git)
