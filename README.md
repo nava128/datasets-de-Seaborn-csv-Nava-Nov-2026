@@ -12,3 +12,8 @@ Una introducción a Seaborn
 ## Diplomatura en Ciencia de Datos e Inteligencia Artificial
 
 [link ](https://github.com/nicklessagus/AP-4.0-UNSAM.git)
+
+
+## curso Laboratorio de Programación Científica para Ciencia de Datos
+
+[link ](https://github.com/MDS7202/MDS7202.git)
