@@ -23,3 +23,6 @@ Una introducción a Seaborn
 
 ## CienciaDatos_Python_V3
 [link ](https://github.com/iacenter/CienciaDatos_Python_V3.git)
+
+## CTIC-CIENCIA-DE-DATOS-MOD-01-2022A
+[link ](https://github.com/gcoronelc/CTIC-CIENCIA-DE-DATOS-MOD-01-2022A.git)
