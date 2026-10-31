@@ -6,3 +6,9 @@ Una introducción a Seaborn
 
 ## Hands-On Machine Learning with Scikit-Learn and PyTorch
 [link ](https://github.com/ageron/handson-mlp.git)
+
+
+
+## Diplomatura en Ciencia de Datos e Inteligencia Artificial
+
+[link ](https://github.com/nicklessagus/AP-4.0-UNSAM.git)
